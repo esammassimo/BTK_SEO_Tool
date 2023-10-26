@@ -1,8 +1,0 @@
-os
-streamlit
-bs4
-requests
-pandas
-re
-openai
-people_also_ask
