@@ -1,6 +1,6 @@
 os
 streamlit
-bs4
+beautifulsoup4
 requests
 pandas
 re
