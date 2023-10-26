@@ -1,6 +1,6 @@
 os
 streamlit
-beautifulsoup4
+beautifulsoup4==4.9.0
 requests
 pandas
 re
