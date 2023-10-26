@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-st.write(st.session_state["shared"])
+
 
 from bs4 import BeautifulSoup
 import requests
